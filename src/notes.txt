@@ -1,0 +1,16 @@
+****ek animation web application bana rahe using reactjs vite******or ye website important rahegi for job
+isliye ise seriously lo or kaam krte chale jaao*******
+navbar
+landing page
+marquee
+about
+playful 
+cards
+cards
+ready to start
+final footer
+install locomotive
+
+useeffect isliye laga rahe he ki pura page khul jaaye tab hame kuch karna he hame mouse ki location nikalni he
+is project se hamne ye sikha ki kaise diffrene diffent components ko bana ke hama ek user interface
+create kar sakte he 
